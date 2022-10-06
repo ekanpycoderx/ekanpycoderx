@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with Exploring New Technologies.
 - 📫 How to reach me: Email - ekanshj232@gmail.com
 - 😄 Pronouns: He/His
+- My main account 💻 - EkanPyCoder/Ekansh-Is-Pro
 
 # 💻Tech Stack
 ![Python](https://img.shields.io/pypi/pyversions/3?style=flat-square)
