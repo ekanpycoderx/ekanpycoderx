@@ -7,6 +7,7 @@
 - 📫 How to reach me: Email - ekanshj232@gmail.com
 - 😄 Pronouns: He/His
 - My main account 💻 - EkanPyCoder/Ekansh-Is-Pro
+- **This is my alt account**
 
 # 💻Tech Stack
 ![Python](https://img.shields.io/pypi/pyversions/3?style=flat-square)
